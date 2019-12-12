@@ -46,7 +46,7 @@
         "@types/minimist": "latest",
         "@types/mkdirp": "latest",
         "@types/mocha": "latest",
-        "@types/node": "8.5.5",
+        "@types/node": "12.12.17",
         "@types/q": "latest",
         "@types/source-map-support": "latest",
         "@types/through2": "latest",
