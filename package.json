@@ -107,6 +107,6 @@
         "path": false
     },
     "dependencies": {    
-        "adm-zip": "0.4.7"
+        "adm-zip": "0.5.2"
     }
 }
